@@ -1,2 +1,2 @@
-# db-course-library
-Final Work, Database Course from UnB
+# DB Course Library
+Final Work, UnB Database Course.
